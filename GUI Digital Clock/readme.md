@@ -1,4 +1,4 @@
-"Python GUI Digital Clock: Stay in Sync with Style! ⏰✨
+# Python GUI Digital Clock: Stay in Sync with Style! ⏰✨
 
 Welcome to my GitHub repo! Get ready to jazz up your desktop with a sleek and interactive GUI Digital Clock built using Python. 🎉💻
 
@@ -8,4 +8,4 @@ Feel free to explore the repository, check out the code, and customize it to mat
 
 Remember, this clock is not just practical but also a canvas for your creativity. Let your imagination run wild and create your own unique clock design! 🎨🌟
 
-So, let's dive in and stay in sync with style using the Python GUI Digital Clock. Happy coding, and may your time management be on point! ⏰😎"
+So, let's dive in and stay in sync with style using the Python GUI Digital Clock. Happy coding, and may your time management be on point! ⏰😎
